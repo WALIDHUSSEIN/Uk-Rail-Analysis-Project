@@ -35,6 +35,10 @@ Count and Distinct Count: Understand the total count and distinct count of value
 
 undefinedundefinedundefined
 
+
+
+
+
 📉 Delay reasons
 
 I chose only three reasons for further analysis that we can effectively track and monitor, as they are within our control:
@@ -64,6 +68,14 @@ undefinedundefinedFor the unknown reason of delay no one asked for a refund requ
 🟪Proactive measures to address common delay reasons mitigate operational risks, improve service quality, and maintain passenger trust and loyalty.
 
 🟪Allocating resources towards addressing delay causes aligns with long-term business sustainability goals, ensuring efficient operations and positive passenger experiences.
+
+
+
+
+
+![Delays](https://github.com/WALIDHUSSEIN/Uk-Rail-Analysis-Project/assets/119229080/463a6ee8-1faa-4b51-ae0a-7729c70084c3)
+
+
 
 Peaks
 
